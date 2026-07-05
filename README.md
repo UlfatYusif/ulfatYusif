@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ulfat Yusif</h1>
+<h1 align="center">Hi 👋, I'm Ulfat</h1>
 
 <h3 align="center">
-Database Reliability Engineer | PostgreSQL | Oracle | AWS
+Database Reliability Engineer| Oracle | PostgreSQL | MySQL | AWS / GCP / AZURE
 </h3>
 
 <p align="center">
