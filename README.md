@@ -50,11 +50,12 @@ I'm a Database Reliability Engineer with experience designing, maintaining, and 
 ### Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Red Hat/Fedora](https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![OEL]()
-![Aix]()
-![HP]()
-![Solari]()
+![Unix](https://img.shields.io/badge/Unix-333333?style=for-the-badge&logo=unix&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Oracle Linux (OEL)](https://img.shields.io/badge/Oracle%20Linux%20(OEL)-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Solaris](https://img.shields.io/badge/Solaris-FFB000?style=for-the-badge&logo=oracle&logoColor=black)
+![AIX](https://img.shields.io/badge/IBM%20AIX-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![HP-UX](https://img.shields.io/badge/HP--UX-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 
 
 ---
