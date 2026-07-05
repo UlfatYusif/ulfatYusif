@@ -117,7 +117,7 @@ I'm a Database Reliability Engineer with experience designing, maintaining, and 
 # 📫 Connect With Me
 
 - GitHub: https://github.com/ulfatYusif
-- LinkedIn: **TODO**
+- LinkedIn: [**TODO**](https://www.linkedin.com/in/ulfat-tanriverdiyev-1b9b546/)
 - Email: **TODO**
 
 ---
