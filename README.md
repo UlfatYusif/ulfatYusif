@@ -14,14 +14,15 @@ Database Reliability Engineer| Oracle | PostgreSQL | MySQL | AWS / GCP / AZURE
 
 I'm a Database Reliability Engineer with experience designing, maintaining, and automating highly available database environments.
 
-- 🗄 PostgreSQL, Oracle, MySQL, MongoDB
+- 🗄 Oracle, PostgreSQL, MySQL, MongoDB
 - ☁ AWS (RDS, Aurora, EC2)
-- 🐧 Linux Administration
+- 🐧 Linux/Unix Administration
 - ⚡ Bash & Python Automation
 - 📈 Performance Tuning
 - 🔄 Backup & Recovery
 - 🚀 High Availability & Replication
 - 📚 Currently learning Kubernetes and Terraform
+- AI and Machine Learning
 
 ---
 
@@ -29,14 +30,17 @@ I'm a Database Reliability Engineer with experience designing, maintaining, and 
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AZURE](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ### Automation
 
@@ -46,7 +50,12 @@ I'm a Database Reliability Engineer with experience designing, maintaining, and 
 ### Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Red Hat/Fedora](https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![OEL]()
+![Aix]()
+![HP]()
+![Solari]()
+
 
 ---
 
@@ -57,6 +66,7 @@ I'm a Database Reliability Engineer with experience designing, maintaining, and 
 - Cloud Database Automation
 - Infrastructure as Code
 - Observability
+- AI, ML
 
 ---
 
@@ -117,8 +127,8 @@ I'm a Database Reliability Engineer with experience designing, maintaining, and 
 # 📫 Connect With Me
 
 - GitHub: https://github.com/ulfatYusif
-- LinkedIn: [**TODO**](https://www.linkedin.com/in/ulfat-tanriverdiyev-1b9b546/)
-- Email: **TODO**
+- LinkedIn: https://www.linkedin.com/in/ulfat-tanriverdiyev-1b9b546/
+- Email: me@ulfet.info
 
 ---
 
